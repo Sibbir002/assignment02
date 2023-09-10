@@ -1,0 +1,48 @@
+*{
+    margin-left:20px ;
+    margin-right:20px ;
+    box-sizing: border-box;
+}
+.heading{
+    font-size: 40px;
+    text-align: center;
+}
+.banner{
+    width: 400px;
+    margin: auto;
+    display: block;
+    padding-bottom: 15px;
+}
+.img1{
+    width: 80px;
+}
+.espn{
+    text-decoration: none;
+}
+.img2{
+    width: 50px;
+}
+.img3{
+    width: 80px;
+}
+.btn{
+    margin-top: 10px;
+    padding: 15px;
+    background-color: #4D3073;
+    color: #fff;
+    border: none;
+    margin-left: 0;
+}
+.player{
+    text-decoration: none;
+}
+table, tr, td, th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+table{
+    margin-top: 10px;
+    text-align: center;
+    margin: auto;
+}
